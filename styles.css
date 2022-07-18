@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body {
+    height: 100%;
+    background: #181a1b;
+    color: white;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* Padding ou margin não afetam no tamanho do elemento, essa é a função */
+  }
+  
+  body {
+    margin: 0;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+  }
+  
+  a {
+    text-decoration: none;
+  }
